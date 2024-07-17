@@ -8,7 +8,7 @@ Skill Macth es una plataforma donde las personas pueden intercambiar servicios e
 
 ## Proceso
 
-SkillMatch se encuentra en una fase beta desarollandose con [Bublleo.io](https://bubble.io/home/app) y [Figman](https://www.figma.com/)
+SkillMatch se encuentra en una fase beta desarollandose con [Bublleo.io](https://bubble.io/home/app) y [Figma](https://www.figma.com/)
 
 ## Caracteristiccas
 
