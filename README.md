@@ -8,6 +8,11 @@ Skill Macth es una plataforma donde las personas pueden intercambiar servicios e
 
 ## Prototipos
 
+<img width="400px"  src="assets/images/Prototipo1.png" />
+<img width="400px"  src="assets/images/Prototipo2.png" />
+<img width="400px"  src="assets/images/Prototipo3.png" />
+<img width="400px"  src="assets/images/Prototipo4.png" />
+<img width="400px"  src="assets/images/Prototipo5.png" />
 
 
 ## Autores
