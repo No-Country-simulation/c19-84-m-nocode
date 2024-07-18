@@ -29,6 +29,9 @@ Algunas de las caracteristicas a destacar son
 
 ## Autores
 
-- [Yadira Avila](https://github.com/Yadavil)
-- [Yeison Arias](https://github.com/FrostARIAS)
-- [Maria Arismendi](https://github.com/mariA290192)
+| Nombre | Github | Linkedln |
+| :---         |     :---:      |          ---: |
+| Yadira Avila   | [Perfil](https://github.com/Yadavil) | [Perfil](https://www.linkedin.com/in/yadiraavilauxui/) |
+| Yeison Arias     | [Perfil](https://github.com/FrostARIAS) | [Perfil](https://www.linkedin.com/in/yeison-arias-263b972a6/) |
+| Maria Arismendi     | [Perfil](https://github.com/mariA290192) | [Perfil](https://github.com/mariA29019)      |
+
