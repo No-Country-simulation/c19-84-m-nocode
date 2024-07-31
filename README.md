@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500px"  src="assets/images/Logo.png" />
+<img width="500px"  src="assets/images/LogoCompleto.png" />
 </div>
 
 # Skill Math
@@ -101,3 +101,6 @@ Si encuentras algún problema durante la instalación y configuración, no dudes
 | Yeison Arias     | [Perfil](https://github.com/FrostARIAS) | [Perfil](https://www.linkedin.com/in/yeison-arias-263b972a6/) |
 | Maria Arismendi     | [Perfil](https://github.com/mariA290192) | [Perfil](https://github.com/mariA29019)      |
 
+<div align="center">
+<img width="500px"  src="assets/images/Logo.png" />
+</div>
