@@ -8,7 +8,7 @@ Skill Match es una innovadora plataforma que permite a las personas intercambiar
 
 ## ⚫ Tecnologias Utilizadas 🛠️
 
-- [Bubble.io](https://bubble.io/): La plataforma principal para el desarrollo de la web sin necesidad de código. Bubble.io permite crear aplicaciones web completas con una interfaz visual, facilitando la creación y gestión de las funcionalidades de Skill Match.
+- [Bubble](https://bubble.io/): La plataforma principal para el desarrollo de la web sin necesidad de código. Bubble permite crear aplicaciones web completas con una interfaz visual, facilitando la creación y gestión de las funcionalidades de Skill Match.
 
 - [Figma](https://www.figma.com/): Herramienta de diseño utilizada para crear y prototipar la interfaz de usuario de Skill Match. Figma permite colaborar en tiempo real y asegurarse de que el diseño sea atractivo y funcional.
 
@@ -81,7 +81,7 @@ Sigue estos pasos para configurar tu entorno de desarrollo y empezar a trabajar 
 6. **Lanza tu aplicación**
    - Una vez que hayas configurado todo, puedes lanzar tu aplicación desde el panel de control de Bubble.io. Asegúrate de probar todas las funcionalidades para verificar que todo funciona correctamente.
 
-Si encuentras algún problema durante la instalación y configuración, no dudes en abrir un issue en este repositorio o consultar la [documentación de Bubble.io](https://manual.bubble.io/).
+Si encuentras algún problema durante la instalación y configuración, no dudes en abrir un issue en este repositorio o consultar la [documentación de Bubble](https://manual.bubble.io/).
 
 
 ## ⚫ Imagenes 📸
