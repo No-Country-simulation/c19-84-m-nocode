@@ -8,7 +8,7 @@ Skill Match es una innovadora plataforma que permite a las personas intercambiar
 
 ## ⚫ Tecnologias Utilizadas 🛠️
 
-- [Bublleo.io](https://bubble.io/): La plataforma principal para el desarrollo de la web sin necesidad de código. Bubble.io permite crear aplicaciones web completas con una interfaz visual, facilitando la creación y gestión de las funcionalidades de Skill Match.
+- [Bubble.io](https://bubble.io/): La plataforma principal para el desarrollo de la web sin necesidad de código. Bubble.io permite crear aplicaciones web completas con una interfaz visual, facilitando la creación y gestión de las funcionalidades de Skill Match.
 
 - [Figma](https://www.figma.com/): Herramienta de diseño utilizada para crear y prototipar la interfaz de usuario de Skill Match. Figma permite colaborar en tiempo real y asegurarse de que el diseño sea atractivo y funcional.
 
