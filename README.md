@@ -86,13 +86,21 @@ Si encuentras algún problema durante la instalación y configuración, no dudes
 
 ## ⚫ Imagenes 📸
 
-| Registro e inicio de sesion | <img width="200px"  src="assets/images/Prototipo1.PNG" /> |
+<div align="center">
+  
+| Registro de usuario | <img width="200px"  src="assets/images/Registro.PNG" /> |
 | ---      | ---       |
-| Pantalla de carga | <img width="200px"  src="assets/images/Prototipo2.PNG" />         |
-| Menu de Inicio     | <img width="200px"  src="assets/images/Prototipo3.PNG" />        |
-| Buscador     | <img width="200px"  src="assets/images/Prototipo4.PNG" /> |
-| Mi Perfil | <img width="200px"  src="assets/images/Prototipo5.PNG" />         |
+| Pantalla de carga | <img width="200px"  src="assets/images/PantallaDeCarga.PNG" />         |
+| Mi Perfil | <img width="200px"  src="assets/images/Perfil.PNG" />         |
+| Buscador     | <img width="200px"  src="assets/images/Busqueda.PNG" /> |
+| Sugerencias     | <img width="200px"  src="assets/images/Sugerencia.PNG" /> |
+| Publicar Servicio     | <img width="200px"  src="assets/images/PublicarServicio.PNG" /> |
+| Chat | <img width="200px"  src="assets/images/Chat1.PNG" />         |
+| Chat | <img width="200px"  src="assets/images/Chat2.PNG" />         |
+| Acuerdo/Contrato | <img width="200px"  src="assets/images/Acuerdo.PNG" />         |
+| Sistema de Creditos | <img width="200px"  src="assets/images/SistemaDeCreditos.PNG" />         |
 
+</div>
 ## ⚫ Autores 👇 
 
 | Nombre | Github | Linkedln |
