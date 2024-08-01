@@ -88,17 +88,17 @@ Si encuentras algún problema durante la instalación y configuración, no dudes
 
 <div align="center">
   
-| Registro de usuario | <img width="200px"  src="assets/images/Registro.PNG" /> |
+| Registro de usuario | <img width="250px"  src="assets/images/Registro.PNG" /> |
 | ---      | ---       |
-| Pantalla de carga | <img width="200px"  src="assets/images/PantallaDeCarga.PNG" />         |
-| Mi Perfil | <img width="200px"  src="assets/images/Perfil.PNG" />         |
-| Buscador     | <img width="200px"  src="assets/images/Busqueda.PNG" /> |
-| Sugerencias     | <img width="200px"  src="assets/images/Sugerencia.PNG" /> |
-| Publicar Servicio     | <img width="200px"  src="assets/images/PublicarServicio.PNG" /> |
-| Chat | <img width="200px"  src="assets/images/Chat1.PNG" />         |
-| Chat | <img width="200px"  src="assets/images/Chat2.PNG" />         |
-| Acuerdo/Contrato | <img width="200px"  src="assets/images/Acuerdo.PNG" />         |
-| Sistema de Creditos | <img width="200px"  src="assets/images/SistemaDeCreditos.PNG" />         |
+| Pantalla de carga | <img width="250px"  src="assets/images/PantallaDeCarga.PNG" />         |
+| Mi Perfil | <img width="250px"  src="assets/images/Perfil.PNG" />         |
+| Buscador     | <img width="250px"  src="assets/images/Busqueda.PNG" /> |
+| Sugerencias     | <img width="250px"  src="assets/images/Sugerencia.PNG" /> |
+| Publicar Servicio     | <img width="250px"  src="assets/images/PublicarServicio.PNG" /> |
+| Chat | <img width="250px"  src="assets/images/Chat1.PNG" />         |
+| Chat | <img width="250px"  src="assets/images/Chat2.PNG" />         |
+| Acuerdo/Contrato | <img width="250px"  src="assets/images/Acuerdo.PNG" />         |
+| Sistema de Creditos | <img width="250px"  src="assets/images/SistemaDeCreditos.PNG" />         |
 
 </div>
 ## ⚫ Autores 👇 
