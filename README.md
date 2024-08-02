@@ -58,34 +58,6 @@ Skill Match está actualmente en desarrollo. El estado de las funcionalidades es
 
 El proyecto está en una fase temprana de desarrollo, con varias características clave en progreso. Las próximas etapas se centrarán en completar la funcionalidad principal y mejorar la experiencia del usuario.
 
-
-## ⚫ Instalación y Configuración ⚛️
-
-Sigue estos pasos para configurar tu entorno de desarrollo y empezar a trabajar con Skill Match:
-
-1. **Regístrate en Bubble.io**
-   - Ve a [Bubble.io](https://bubble.io) y crea una cuenta si no tienes una.
-   
-2. **Descarga los archivos de este repositorio**
-
-3. **Importa el proyecto en tu cuenta de Bubble.io**
-   - Inicia sesión en tu cuenta de Bubble.io.
-   - Crea una nueva aplicación y selecciona la opción para importar un proyecto existente.
-   - Sube los archivos del proyecto que has descargado.
-
-4. **Configura las variables de entorno y cualquier otra configuración necesaria**
-   - Asegúrate de configurar cualquier variable de entorno necesaria para tu aplicación. Esto puede incluir claves API, configuraciones de base de datos u otros parámetros específicos del entorno.
-   - Consulta la documentación de Bubble.io para obtener detalles sobre cómo configurar variables de entorno y otros ajustes de la aplicación.
-
-5. **Revisa y ajusta la configuración del proyecto en Bubble.io**
-   - Ve a la sección de "Settings" de tu aplicación en Bubble.io y ajusta las configuraciones según sea necesario. Esto puede incluir la configuración de permisos, dominios personalizados, y otras opciones relevantes para tu proyecto.
-
-6. **Lanza tu aplicación**
-   - Una vez que hayas configurado todo, puedes lanzar tu aplicación desde el panel de control de Bubble.io. Asegúrate de probar todas las funcionalidades para verificar que todo funciona correctamente.
-
-Si encuentras algún problema durante la instalación y configuración, no dudes en abrir un issue en este repositorio o consultar la [documentación de Bubble](https://manual.bubble.io/).
-
-
 ## ⚫ Imagenes 📸
 
 <div align="center">
