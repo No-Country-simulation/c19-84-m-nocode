@@ -6,6 +6,8 @@
 
 Skill Match es una innovadora plataforma que permite a las personas intercambiar servicios basados en sus habilidades, eliminando la necesidad de transacciones monetarias. En lugar de dinero, utilizamos un sistema de créditos donde cada servicio prestado o recibido se traduce en créditos. Estos créditos pueden ser utilizados para obtener otros servicios dentro de la plataforma, fomentando un intercambio justo y eficiente de habilidades y recursos.
 
+## [Ver Proyecto](http://skillmatchapp.bubbleapps.io/version-test/)
+
 ## ⚫ Tecnologias Utilizadas 🛠️
 
 - [Bubble](https://bubble.io/): La plataforma principal para el desarrollo de la web sin necesidad de código. Bubble permite crear aplicaciones web completas con una interfaz visual, facilitando la creación y gestión de las funcionalidades de Skill Match.
