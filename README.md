@@ -39,7 +39,7 @@ Skill Match está actualmente en desarrollo. El estado de las funcionalidades es
 
 - [x] Registro de usuarios
 - [x] Perfil de usuario
-- [ ] Sistema de crédito
+- [x] Intercambio de servicios Sistema de crédito
 - [x] Crear un servicio
 - [ ] Intercambio de servicios
 - [ ] Chat
